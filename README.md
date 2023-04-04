@@ -37,5 +37,5 @@
 
 ## **🔗 자세한 내용**
 
-- [Nawa : 운동 메이트를 찾는 플랫폼](https://www.notion.so/Nawa-90ea1a43143346988b8ce7e6b941c08d)
+- [프로젝트 Notion](https://www.notion.so/Nawa-90ea1a43143346988b8ce7e6b941c08d)
 - [개인 작업 내용](https://github.com/Mosquito0076/Nawa-Remind)
