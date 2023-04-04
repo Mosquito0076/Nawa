@@ -2,7 +2,7 @@
 
 ![썸네일](https://user-images.githubusercontent.com/95673624/188423788-ca05750d-36e0-42c1-a27d-63469dd904ce.png)
 
-https://youtu.be/xIYFsRf1OSA
+[나와 UCC](https://youtu.be/xIYFsRf1OSA)
 
 ## 📜 설명
 
